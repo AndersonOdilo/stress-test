@@ -20,7 +20,7 @@ var rootCmd = &cobra.Command{
 	Short: "A brief description of your application",
 	Run: func(cmd *cobra.Command, args []string) {
 
-		usecase.Executa(url, requests, concurrency)
+		usecase.StressTeste(url, requests, concurrency)
   },
 }
 
