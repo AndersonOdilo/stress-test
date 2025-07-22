@@ -1,5 +1,3 @@
----
-
 # 🚦 FullCycle Stress Teste
 
 ## 🧾 Objetivo
